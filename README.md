@@ -19,12 +19,14 @@ NOTE:
     
 To Install and Run:
 
-    1. Do
+    1. cd into the project directory;
+    
         sudo make install
 
-    2. go to the PIXEL appliction menu and click on "Graphics"
+    2. go to the PIXEL application menu and click on "Graphics"
 
     3. click on "EnvMap3d"
 
+    I'll try to make the source code for this project available soon.
 
 
