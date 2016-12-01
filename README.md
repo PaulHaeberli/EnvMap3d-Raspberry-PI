@@ -1,6 +1,8 @@
 #EnvMap for Raspberry PI
 
-NOTE: This app will only run if the 
+NOTE: 
+
+    This app will only run if the 
 
     Experimental desktop GL driver is off
     you can change this setting by doing:
