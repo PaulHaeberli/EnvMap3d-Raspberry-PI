@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=EnvMap3d
+GenericName=3D demo
+GenericName[es]=modelador 3D
+Comment=3D environment mapping demo
+Comment[es]=modelado 3D, animación, renderizado y post-producción
+Exec=/opt/envmap3d/envmap3d
+Icon=/usr/share/pixmaps/envmap3d-32x32.xpm
+Terminal=false
+Type=Application
+Categories=Graphics;3DGraphics;
