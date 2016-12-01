@@ -3,18 +3,22 @@
 NOTE: 
 
     This app will only run if the 
-
-    Experimental desktop GL driver is off
+    Experimental desktop GL driver is off.
+    
     you can change this setting by doing:
 
-    sudo raspi-config
-    selecting 9 - Advanced Options, then
-    selecting AC - GL Driver, then
-    selecting No, and restarting
+        sudo raspi-config
+    
+        selecting 9 - Advanced Options, then
+        selecting AC - GL Driver, then
+        selecting No, and restarting
 
     I have only tested this on Raspberry Pi 3 Model B
     I am working on makeing this work with the desktop
     GL driver running!
+    
+    I am working on a new version of this that will work
+    with the desktop GL driver turned on.
   
     
 To Install and Run:
