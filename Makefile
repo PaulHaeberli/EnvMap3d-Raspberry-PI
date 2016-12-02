@@ -9,10 +9,7 @@ install:
 	cp bin/envmap3d /opt/envmap3d/envmap3d
 	mkdir /opt/envmap3d/res
 	cp res/* /opt/envmap3d/res
-	cp -r /home/pi/RPI/EnvMapRPI/res /opt/envmap3d/res
-	mkdir /opt/envmap3d/tmp
 	cp envmap3d.desktop /usr/share/applications
-	#mkdir /tmp/EnvMap
 
 
 
