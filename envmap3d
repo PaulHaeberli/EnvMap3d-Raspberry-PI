@@ -1,4 +1,4 @@
 ?package(envmap3d):needs="X11" section="Applications/Graphics" hints="Modeler"\
   longtitle="EnvMap 3D demo"\
   icon="/usr/share/pixmaps/envmap3d-32x32.xpm"\
-  title="Blender" command="/opt/envmap3d/envmap3d"
+  title="EnvMap3d" command="/opt/envmap3d/envmap3d"
