@@ -14,7 +14,7 @@ NOTE:
         selecting No, and restarting
 
     I have only tested this on Raspberry Pi 3 Model B
-    I am working on makeing this work with the desktop
+    I am working on making this work with the desktop
     GL driver running!
     
     I am working on a new version of this that will work
